@@ -2,10 +2,10 @@ import tweepy
 import pickle
 import pandas as pd
 
-consumer_key = "oIbrARLL6QbmbrJJhdl6fh1Bn"
-consumer_secret = "YMEgyrhiblOFhCmHE3pfco85MBrhs8mSF9lyOGI3GzAZXBVx2P"
-access_key = "806491866992676865-kaU9QCjQgdQgLPgoDOe50wGdtddJ9xZ"
-access_secret = "KWFUurS6omuhKstXV2aGjDk4tDgUHk0dZWs2uuZOqR5m3"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 fscore_map={'toxic':'Toxic',
                 'severe_toxic':'Severe Toxic',
