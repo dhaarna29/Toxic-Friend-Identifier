@@ -13,6 +13,6 @@ You will also see any lint errors in the console.
 Runs the flask app in the development mode. [http://localhost:5000]
 
 ## Functionalities
- ![Tab 1](/Capture.png)
- ![Tab 2](/Capture2.png)
- ![Tab 3](/Capture3.png)
+ ![Tab 1](/Capture.PNG) 
+ ![Tab 2](/Capture2.PNG)
+ ![Tab 3](/Capture3.PNG)
